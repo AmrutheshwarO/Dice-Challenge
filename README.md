@@ -1,0 +1,1 @@
+Practicing generation of Random numbers and DOCUMENT OBJECT MODULE in javascript.
